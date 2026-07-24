@@ -4,7 +4,7 @@ A structured thinking skill for QoderWork. Applies Mao Zedong's methodology (Con
 
 A structured thinking skill for QoderWork. Applies Mao Zedong's methodology (Contradiction Analysis, Practice Theory, Strategy & Tactics, Concentration of Forces, Mass Line, Independence, Seeking Truth from Facts) to help you see through complex problems clearly and land on actionable conclusions.
 
-一个 QoderWork 思维分析技能。运用毛泽东方法论（矛盾论、实践论、战略战术、集中兵力、群众路线、独立自主、实事求是），帮你把复杂问题看穿、看清、看准、落稳。
+一个 用于QoderWork软件的思维分析技能。运用毛泽东方法论（矛盾论、实践论、战略战术、集中兵力、群众路线、独立自主、实事求是），帮你把复杂问题看穿、看清、看准、落稳。
 
 > This is a pure methodology tool, not a political instrument.
 > 这是纯方法论工具，不是政治表态工具。
