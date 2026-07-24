@@ -8,6 +8,8 @@ A structured thinking skill for QoderWork. Applies Mao Zedong's methodology (Con
 
 > This is a pure methodology tool, not a political instrument.
 > 这是纯方法论工具，不是政治表态工具。
+>The work is relatively simple, light spray, shameless, with a small sample size. We welcome everyone's feedback
+> 做的比较简陋，轻喷，要脸，样本数较少，欢迎大家提意见
 
 ---
 
